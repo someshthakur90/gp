@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 Hi Somesh Thakur, How are you
+=======
+Hi Somesh Thakur, How are you?,
+
+>>>>>>> refs/remotes/origin/main
 hello
 
